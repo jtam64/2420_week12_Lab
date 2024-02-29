@@ -1,5 +1,5 @@
 # How to make a static webpage and install NGINX
-Created by: Jack Tam A00930311 and Jose Bangate A01271709
+Created by: Jack Tam and Jose Bangate 
 #### Step 1: Sudo users
 Ensure you have a user with sudo privileges
 <br><br/>
